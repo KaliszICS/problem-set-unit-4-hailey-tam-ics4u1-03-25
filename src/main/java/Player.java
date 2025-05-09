@@ -80,7 +80,7 @@ public class Player {
      * Discards the first occurance of the specific card from the hand to the deck's discard pile.
      * @param card a Card object representing a playing card.
      * @param discardPile a discard pile object that represents the discard pile.
-     * @return a boolean tha if true represents the card existed in the players hand, otherwise false.
+     * @return a boolean that if true represents the card existed in the players hand, otherwise false.
      */
     public boolean discardCard(Card card, DiscardPile discardPile){
         int index = -1;
