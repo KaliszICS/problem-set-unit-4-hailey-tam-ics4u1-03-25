@@ -1,0 +1,7 @@
+K(30%): 100
+I(30%): 98
+C(10%): 95
+A(30%): 100
+Missing Overridden methods javadocs
+Card equals does not need an if statement at the end, just return the condition.
+An ArrayList for the backend should have simplified the code a lot.
